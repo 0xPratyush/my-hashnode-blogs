@@ -3,7 +3,7 @@ title: "🚀 Unleashing the Power of DevOps: Accelerating Automation, Scaling, a
 datePublished: Mon Jul 17 2023 17:45:30 GMT+0000 (Coordinated Universal Time)
 cuid: clk75p7wo00040alch9py453f
 slug: unleashing-the-power-of-devops-accelerating-automation-scaling-and-infrastructure
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689615760339/d6ec434c-1326-4691-9dac-b3bff2ab8d4e.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689616155390/a0caef23-6179-40c3-83a2-0e72ddace883.png
 tags: devops, devops-articles, devops-journey, 90daysofdevops, trainwithshubham
 
 ---
